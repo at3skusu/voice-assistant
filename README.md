@@ -1,3 +1,2 @@
-# myprojects
 
 expandable voice assistant
